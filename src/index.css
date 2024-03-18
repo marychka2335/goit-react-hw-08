@@ -3,6 +3,11 @@
 body {
   font-family: sans-serif;
   line-height: 1.5;
+background: linear-gradient(rgba(255, 255, 255, 0.99), rgba(0, 0, 0, 0.01)), url(./img/image3flowers.png);
+
+background-repeat: no-repeat;
+background-size: cover;
+
 }
 
 h1,

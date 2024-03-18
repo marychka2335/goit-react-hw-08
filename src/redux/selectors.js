@@ -13,6 +13,12 @@ export const selectFilteredContacts = createSelector(
   }
 );
 
+export const selectLoggedIn = state => state.auth.isLoggedIn;
+
+export const selectUser = state => state.auth.user;
+
+export const selectRefreshing = state => state.auth.isRefreshing;
+
 // export const getFilteredContacts = state => {
 //   const contacts = getContacts(state);
 //   const filter = getFilterValue(state);

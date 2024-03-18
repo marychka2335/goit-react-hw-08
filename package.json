@@ -10,16 +10,25 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.13",
+    "@mui/styled-engine-sc": "^6.0.0-alpha.17",
     "@redux-devtools/extension": "^3.3.0",
     "@reduxjs/toolkit": "^2.2.1",
     "axios": "^1.6.8",
     "izitoast": "^1.4.0",
     "modern-normalize": "^2.0.0",
+    "mui": "^0.0.1",
     "notiflix": "^3.2.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^9.1.0",
-    "redux": "^5.0.1"
+    "react-router-dom": "^6.22.3",
+    "redux": "^5.0.1",
+    "redux-persist": "^6.0.0",
+    "styled": "^1.0.0",
+    "styled-components": "^6.1.8"
   },
   "devDependencies": {
     "@types/react": "^18.2.64",
