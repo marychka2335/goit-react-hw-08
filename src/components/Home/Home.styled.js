@@ -8,7 +8,7 @@ export const Text = styled.p`
 font-size: 45px;
 text-align: center;
 color: navy;
-padding-top: 500px;`
+padding-top: 300px;`
 
 
 export const TextSmall = styled.p`
